@@ -1,6 +1,6 @@
 {
   "name": "clone-obj",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Clone object with circular references and property descriptors",
   "main": "index.js",
   "devDependencies": {
