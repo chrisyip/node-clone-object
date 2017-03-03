@@ -150,8 +150,8 @@ foo.a.length === bar.a.length
 
 [npm-url]: https://npmjs.org/package/clone-obj
 [npm-image]: http://img.shields.io/npm/v/clone-obj.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/chrisyip/clone-obj
-[daviddm-image]: http://img.shields.io/david/chrisyip/clone-obj.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/chrisyip/node-clone-object
+[daviddm-image]: http://img.shields.io/david/chrisyip/node-clone-object.svg?style=flat-square
 [travis-url]: https://travis-ci.org/chrisyip/node-clone-object
 [travis-image]: http://img.shields.io/travis/chrisyip/node-clone-object.svg?style=flat-square
 [codecov-url]: https://codecov.io/gh/chrisyip/node-clone-object
