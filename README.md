@@ -14,7 +14,7 @@ Clone object with:
 ```
 npm i clone-obj
 // or
-yard add clone-obj
+yarn add clone-obj
 ```
 
 Requires `node >= 6`
