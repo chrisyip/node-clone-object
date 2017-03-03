@@ -1,7 +1,7 @@
 {
   "name": "clone-obj",
   "version": "1.0.0",
-  "description": "Clone object with circular references and property descriptors",
+  "description": "Clone object with circular references, property descriptors, non-enumerable properties and more.",
   "main": "index.js",
   "devDependencies": {
     "ava": "^0.18.2",
