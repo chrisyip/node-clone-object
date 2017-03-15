@@ -1,14 +1,14 @@
 language: node_js
 node_js:
   - 7
-  - 7.0
   - 6
-  - 6.0
 matrix:
   fast_finish: true
 install:
-  - npm install -g codecov
-  - npm install
+  - npm i
 script:
-  - npm run test
-  - codecov
+  - npm run lint
+  - npm test
+after_script:
+  - npm install -g codecov
+  - npm run codecov
